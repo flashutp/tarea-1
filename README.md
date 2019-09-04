@@ -5,4 +5,8 @@
 # 5. Christopher Cárdenas
 # 6. Genesis Lopez
 # 7. Veronica Medina
-# 8. Gian Bohorquez
+<<<<<<< HEAD
+=======
+# 8. Martín Reto.
+>>>>>>> c28db5ea750fceb236b05739946adafc102cd219
+# 9. Gian Bohorquez
