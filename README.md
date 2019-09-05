@@ -9,3 +9,4 @@
 # 9. Gian Bohorquez
 # 10. Ruben Barrios
 # 11. Italo Sánchez
+# 12. Javier Ormeño XD
